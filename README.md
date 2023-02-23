@@ -1,9 +1,5 @@
-# Hi there! 
+# I am  Alexandr Bilakh! 
 
-
-
-
-I am Alexandr Bilakh.
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> About Me:
 
